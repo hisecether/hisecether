@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hisecether
+- 👀 I’m interested in high security, scalable, stable and performance software design.
+- 🌱 I’m currently learning ethereum and show strong interest on it.
+- 📫 You can reach me via hi.sec.ether@gmail.com
+- 😄 Pronouns: keep learning as we live in the world.
